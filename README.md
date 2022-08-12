@@ -8,7 +8,6 @@ This project is a simple react app that allows a user to customize and order an 
 2. Run _npm start_
 3. Use Away!
 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
